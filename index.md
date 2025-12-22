@@ -8,7 +8,7 @@ Je suis curieux de nature, je fais mes découvertes et mon apprentisage en auto-
 
 Je suis passionné d'IRC et tout ce qui l'entoure,
 
-vous allez trouver sur ma page des Scripts TCL pour Eggdrop entre autres.
+Vous allez trouver sur ma page des Scripts TCL pour Eggdrop entre autres.
 
 # Mes connaissances
 * TCL, Mirc Script, PHP, MySQL (MariaDB), Bash, batch, ...
